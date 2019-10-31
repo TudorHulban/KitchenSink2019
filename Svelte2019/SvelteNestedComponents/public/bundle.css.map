@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "bundle.css",
+  "sources": [
+    "../src/App.svelte"
+  ],
+  "sourcesContent": [
+    "<script>\n  import C1 from \"./C1.svelte\";\n  export let name;\n  export let thevars;\n</script>\n\n<style>\n  h1 {\n    color: purple;\n  }\n</style>\n\n<h1>Hi {name}!</h1>\n<C1 v1={thevars.v2} />\n"
+  ],
+  "names": [],
+  "mappings": "AAOE,EAAE,eAAC,CAAC,AACF,KAAK,CAAE,MAAM,AACf,CAAC"
+}
