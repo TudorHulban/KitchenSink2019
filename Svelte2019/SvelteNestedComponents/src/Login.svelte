@@ -1,7 +1,9 @@
 <script>
-  let usercode = "";
-  let password = "";
+  let usercode = "tudi";
+  let password = "xxx";
   let isLoading = false;
+
+  export let request;
 
   const handleSubmit = () => {
     isLoading = true;
@@ -11,15 +13,13 @@
     bodyFormData.set("logincode", usercode);
     bodyFormData.set("password", password);
 
-    fetch("http://localhost:1323/login", {
-      method: "POST",
-      body: bodyFormData,
-      mode: "cors",
-      headers: {
-        Accept: "application/json",
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Headers": "*"
-      }
+    let URL = "http://localhost:1323/login";
+
+    request(URL).then(r => {
+      setContext(userContextKey, {
+        token: r
+      });
+      console.log("token:", r);
     });
   };
 </script>
