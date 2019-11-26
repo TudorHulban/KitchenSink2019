@@ -15,3 +15,10 @@ ASFINAG Raststadt Ansfelden Nord. Amenities:
 ```html
 https://www.google.ro/maps/place/ASFINAG+Raststadt+Ansfelden+Nord/@48.2136191,14.2786914,17z/data=!3m1!4b1!4m5!3m4!1s0x47739582aa21e2b9:0xe54e6b319467e9e2!8m2!3d48.2136155!4d14.2808801
 ```
+#### Germany, Passau Hotel
+Passauer Straße 36 • 94127 Neuburg a. Inn
+Phone: +49 8507 240
+Email: info@hotel-kreuzhuber.de
+```html
+http://kreuzhuber.reiner-klee.de/
+```
