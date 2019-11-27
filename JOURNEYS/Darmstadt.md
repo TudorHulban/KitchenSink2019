@@ -3,7 +3,7 @@
 https://www.tpark.ro/vigneta-ungaria/
 ```
 #### Romania Hotel
-Dorolt nr 450 <br />
+Hotel Coral Dorolt nr 450 <br />
 Satu Mare 447130 <br />
 Phone: 0751 101 103
 
