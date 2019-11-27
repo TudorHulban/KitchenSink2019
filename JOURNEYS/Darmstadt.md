@@ -1,3 +1,8 @@
+#### Romania Hotel
+Dorolt nr 450 <br />
+Satu Mare 447130 <br />
+Phone: 0751 101 103
+
 #### Hungary Restpoints
 Mezőkövesd, Dohány u. 2/A, 3400 Hungary . Amenities:
 * Lidl
@@ -23,3 +28,8 @@ Email: info@hotel-kreuzhuber.de
 http://kreuzhuber.reiner-klee.de/
 https://www.google.ro/maps/place/Passauer+Str.+36,+94127+Neuburg+am+Inn,+Germany/@48.5116914,13.4390759,17.71z/data=!4m13!1m7!3m6!1s0x4774594b570c8f07:0xdbd3f1e9856762e7!2sPassauer+Str.+36,+94127+Neuburg+am+Inn,+Germany!3b1!8m2!3d48.51148!4d13.43969!3m4!1s0x4774594b570c8f07:0xdbd3f1e9856762e7!8m2!3d48.51148!4d13.43969
 ```
+
+#### Germany, Darmstadt Hotel
+Hilpertstrasse 27, 64295 Darmstadt <br />
+Darmstadt, Hessen <br />
+Phone: +49 8507 240
