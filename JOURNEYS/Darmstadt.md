@@ -8,7 +8,7 @@ Satu Mare 447130 <br />
 Phone: 0751 101 103
 
 #### Austria Restpoints
-AThe Flames- Hamburger Restaurant
+The Flames- Hamburger Restaurant
 ```html
 https://www.google.ro/maps/place/The+Flames-+Hamburger+Restaurant/@48.3927214,13.4230126,17z/data=!3m1!4b1!4m8!3m7!1s0x47744319dbaa35d5:0x5d2c978ac55d6716!5m2!4m1!1i2!8m2!3d48.3927179!4d13.4252013
 ```
