@@ -1,5 +1,8 @@
 1. download driver with git clone
-2. tar -xvf printer.tar.gz
+2. unarchive driver:
+```bash
+tar -xvf printer.tar.gz
+```
 3. install driver with sudo rights:
 ```bash
 sudo ./install.sh
