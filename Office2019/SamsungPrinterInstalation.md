@@ -1,4 +1,19 @@
-1. download driver with git clone
+### Verify dependencies
+Verify if `cups` is installed:
+```bash
+sudo systemctl status cups
+```
+If not present install:
+```
+sudo apt install cups
+```
+Start the service:
+```bash
+sudo systemctl start cups  # or sudo /etc/init.d/cupsd start
+```
+
+### Install driver
+1. download driver (with git clone)
 2. unarchive driver:
 ```bash
 tar -xvf printer.tar.gz
@@ -7,5 +22,13 @@ tar -xvf printer.tar.gz
 ```bash
 sudo ./install.sh
 ```
-4. add printer from OS settings
-5. good to go
+
+### Add printer
+Add printer from OS settings. The printer should be recognized as the driver was installed.<br/>
+Verify printing test page.
+
+
+### Resources
+```
+https://www.maketecheasier.com/set-up-a-printer-in-linux/
+```
